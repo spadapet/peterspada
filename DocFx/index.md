@@ -24,4 +24,4 @@ Play CO-OP with a local buddy and show the invaders who the boss
 is... until your inevitable destruction. Well hey, they do have 
 infinite forces.
 
-> [!Video http://www.youtube.com/embed/HQBVFI7UX2s?rel=0]
+> [!Video https://www.youtube.com/embed/HQBVFI7UX2s?rel=0]

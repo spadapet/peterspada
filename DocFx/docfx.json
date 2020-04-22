@@ -3,7 +3,6 @@
     "content": [
       {
         "files": [
-          "support/**.md",
           "toc.yml",
           "*.md"
         ]
@@ -14,22 +13,12 @@
     "globalMetadata": {
       "_appLogoPath": "images/logo.svg",
       "_disableBreadcrumb": "true",
-      "_disableContribution": "true"
+      "_disableContribution": "true",
+      "_appTitle": "Peter Spada"
     },
     "globalMetadataFiles": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
-    "overwrite": [
-      {
-        "files": [
-          "apidoc/**.md"
-        ],
-        "exclude": [
-          "obj/**",
-          "../docs/**"
-        ]
-      }
-    ],
     "postProcessors": [],
     "resource": [
       {
